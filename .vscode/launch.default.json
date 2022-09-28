@@ -1,0 +1,23 @@
+{
+  // That's default `launch.json` file for VSCode.
+  // You have here debug configurations you can use - just copy and rename this file to `launch.json`.
+  // Why not just `launch.json`? Because sometimes you need to make changes in your `launch.json` file
+  // and to not force you to remember about not commiting them - `default` is added and this file is a
+  // template you can use.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "automatyzacja_io_demo debugger",
+      "type": "python",
+      "request": "launch",
+      "module": "src.main","env": {},
+      "args": []
+    },
+    {
+      "name": "automatyzacja_io_demo unit tests",
+      "type": "python",
+      "request": "launch",
+      "module": "pytest"
+    }
+  ]
+}

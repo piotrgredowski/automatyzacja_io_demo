@@ -1,0 +1,49 @@
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+name: Deploy
+
+jobs:
+  deployment:
+    name: 'Deploy to PROD'
+    runs-on: ubuntu-latest
+    environment: PROD
+    steps:
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$SSH_KEY" > ~/.ssh/production.key
+          chmod 600 ~/.ssh/production.key
+          cat >>~/.ssh/config <<END
+          Host production
+            HostName $SSH_HOST
+            User $SSH_USER
+            Port $SSH_PORT
+            IdentityFile ~/.ssh/production.key
+            StrictHostKeyChecking no
+          END
+        env:
+          SSH_USER: ${{ secrets.USERNAME }}
+          SSH_KEY: ${{ secrets.SSHKEY }}
+          SSH_HOST: ${{ secrets.HOST }}
+          SSH_PORT: ${{ secrets.PORT }}
+      - name: Clone repo
+        run: |
+          ssh production 'cd ~/Coding/ && git clone git@github.com:piotrgredowski/automatyzacja_io_demo.git | true'
+
+      - name: Reset to latest main
+        if: ${{ always() }}|
+        run: |
+          ssh production 'cd ~/Coding/automatyzacja_io_demo && git fetch && git reset --hard origin/main'
+      - name: Stop containers
+        run: |
+          ssh production 'docker ps -q --filter ancestor="automatyzacja_io_demo" | xargs -r docker stop'
+      - name: Build image
+        run: |
+          ssh production 'cd ~/Coding/automatyzacja_io_demo && docker build . -t automatyzacja_io_demo'
+      - name: Start container
+        run: |
+          ssh production 'docker run -it -d --net=host automatyzacja_io_demo:latest'

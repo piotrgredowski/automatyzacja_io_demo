@@ -1,0 +1,22 @@
+{
+  "template": "https://github.com/piotrgredowski/python-cookiecutter",
+  "commit": "1756db8917a211ae1ae9f23a8a8fedc2039ef5a4",
+  "checkout": "conf",
+  "context": {
+    "cookiecutter": {
+      "author_name": "Piotr Grędowski",
+      "author_email": "piotrgredowski@gmail.com",
+      "github_username": "piotrgredowski",
+      "project_name": "automatyzacja_io_demo",
+      "project_slug": "automatyzacja_io_demo",
+      "service_or_package": "service",
+      "package_name": "automatyzacja_io_demo",
+      "project_short_description": "This is just a demo service for automatyzacja.io conference.",
+      "add_vscode_debug_configurations": "1",
+      "python_version": "3.9",
+      "poetry_version": "1.2.1",
+      "_template": "https://github.com/piotrgredowski/python-cookiecutter"
+    }
+  },
+  "directory": null
+}
