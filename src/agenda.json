@@ -1,0 +1,320 @@
+{
+  "records": [
+    {
+      "id": "reczswA2RvQNhvCEn",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Firma": "Robonomika.pl",
+        "Prelegent": "\"prof. SGH, dr hab. Andrzej Sobczak\"",
+        "Proponowany tytuł prezentacji": "Rozpoczęcie konferencji AUTOMATYZACJA.io",
+        "Występujący": "\"prof. SGH, dr hab. Andrzej Sobczak\"",
+        "Kolejność": "20",
+        "Godzina": "08.45-09.00",
+        "Poziom techniczności": "1",
+        "Opis występującego": "\"prof. SGH, dr hab. Andrzej Sobczak, \"",
+        "Zdjęcie (from Prelegent)": "Sobczak.jpg (https://dl.airtable.com/.attachments/3b15645063372f5c7ab32a76625606a1/8fbbbf8d/Sobczak.jpg)"
+      },
+      "createdTime": 1657473933,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "reckUZq8rAabrwNf6",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "Orange Polska",
+        "Prelegent": "Paweł Idczak",
+        "Proponowany tytuł prezentacji": "Automatyzacja wdrożeń Salesforce",
+        "Występujący": "Paweł Idczak",
+        "Kolejność": "21",
+        "Godzina": "09:40-10:20",
+        "Branża": "Telekomunikacja",
+        "Krótki opis prezentacji": "Salesforce jako system stworzony wg idei \"click not code\" początkowo nie oferował wsparcia do automatyzacji. \n\nObecnie dostępne narzędzia Salesforce są wciąż niedoskonałe a środowisko developerów i architektów Salesforce bardzo przywiązane do pierwotnej idei. \n\nJednakże korzystając z dobrych praktyk, otwartego oprogramowania i inżynierskiej kreatywności można zbudować w pełni działającą rozwiązanie \"continuous integration\" dla dużych projektów Salesforce. Prezentacja zawiera retrospekcję i wnioski z wdrożenia.",
+        "Poziom techniczności": "4",
+        "Opis występującego": "\"Paweł Idczak, Orange Polska\"",
+        "Zdjęcie (from Prelegent)": "Idczak.jpg (https://dl.airtable.com/.attachments/6fcabbf364d70e8e9f982b8eb67de24e/c4b25b85/Idczak.jpg)",
+        "Stanowisko (from Prelegent)": "Software Architect"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recqZ7ZPfpyMakNq9",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Firma": "TAURON",
+        "Prelegent": "Robert Wierciszewski",
+        "Proponowany tytuł prezentacji": "Wyzwalacze automatyzacji SDLC w branży energetycznej na przykładzie technologii kontenerowych",
+        "Występujący": "Robert Wierciszewski",
+        "Kolejność": "22",
+        "Godzina": "10:20-11:00",
+        "Branża": "SSC / BPO, Utilites",
+        "Poziom techniczności": "3",
+        "Opis występującego": "\"Robert Wierciszewski, Tauron\"",
+        "Zdjęcie (from Prelegent)": "Robert_Wierciszewski_TAURON.jpg (https://dl.airtable.com/.attachments/e4f46cb48fa8cf73f91ec9c738d06ec0/638c39b1/Robert_Wierciszewski_TAURON.jpg)",
+        "Stanowisko (from Prelegent)": "Dyrektor Centrum Infrastruktury IT"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "rec7tzfeusPhKr02c",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "Exatel",
+        "Prelegent": "Dariusz Grabowski",
+        "Proponowany tytuł prezentacji": "Testowanie kodu pipeline w Jenkinsie",
+        "Występujący": "Dariusz Grabowski",
+        "Kolejność": "23",
+        "Godzina": "11:00-11:40",
+        "Branża": "Telekomunikacja",
+        "Krótki opis prezentacji": "Na rynku dostępnych jest wiele narzędzi do testowania konfiguracji IaaC. Mamy lintery/testery dla Dockera, Terraforma czy Ansible. A co z Jenkinsem? Czy wciąż musimy testować wszystko na żywym organizmie? Podczas prezentacji pokażę jak krok po kroku przygotować środowisko do tworzenia bibliotek jenkinsowych i jak uruchamiać testy tych bibliotek w... Jenkinsie Podam też garść praktycznych wskazówek jak używać tego podejścia w realnym środowisku.",
+        "Poziom techniczności": "5",
+        "Opis występującego": "\"Dariusz Grabowski, Exatel\"",
+        "Zdjęcie (from Prelegent)": "dg.jpg (https://dl.airtable.com/.attachments/ad130164390e0c50c6b76da1df6fae73/231b094d/dg.jpg)",
+        "Stanowisko (from Prelegent)": "Lead developer"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "rec8TevGurdu9YWEU",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Firma": "InFakt",
+        "Prelegent": "Hubert Nodżak, Rafał Sztwiorok",
+        "Proponowany tytuł prezentacji": "Automatyzacja z wykorzystaniem konteneryzacji na przykładzie inFakt",
+        "Występujący": "Hubert Nodżak, Rafał Sztwiorok",
+        "Kolejność": "24",
+        "Godzina": "11:40-12:20",
+        "Branża": "Technologia, Finanse",
+        "Krótki opis prezentacji": "Prezentacja podzielona będzie na dwie części, teoretyczno - analityczną i praktyczną. \nCzęść I. Transformacja organizacji, czyli jak klienci firmy Buddy (https://buddy.works) przechodzą proces wdrażania kultury DevOps i pełnego CI/CD z uwzględnieniem zagadnienia konteneryzacji - problemy, wąskie gardła, wyzwania (dane z ponad 2 000 międzynarodowych organizacji). \nCzęść II. Case Study firmy InFakt: Wdrażanie procesów automatyzacji z wykorzystaniem dobrodziejstw konteneryzacji - od developmentu po produkcję. ",
+        "Poziom techniczności": "4",
+        "Opis występującego": "\"Hubert Nodżak, inFakt\", \"Rafał Sztwiorok, Buddy\"",
+        "Zdjęcie (from Prelegent)": "Hubert Nodżak.jpg (https://dl.airtable.com/.attachments/e3b2e6f9e95e66c494c957c365468b3e/0f37ee8e/HubertNodak.jpg), Rafał Sztwiorok.JPG (https://dl.airtable.com/.attachments/67f0b989feee04697418cd204085db1e/492f8c2e/RafaSztwiorok.JPG)",
+        "Stanowisko (from Prelegent)": "Technical Leader, CTO"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recJgOWz8QMa36v3t",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "Amazon Web Services",
+        "Prelegent": "Sebastian Gębski",
+        "Proponowany tytuł prezentacji": "Dla tych, co lubią psuć: Chaos Engineering na AWS",
+        "Występujący": "Sebastian Gębski",
+        "Kolejność": "26",
+        "Godzina": "12:20-13:00",
+        "Branża": "Technologia",
+        "Krótki opis prezentacji": "Budując nowoczesne infrastruktury w chmurze, dużo czasu poświęcamy na zagadnienia takie jak odporność na błędy (fault tolerance, resilience), auto-skalowanie i reakcje na awarie (self-healing, disaster recovery). Mechanizmy, których do tego używamy to jednak przede wszystkim kod i parametryzacja - jedno i drugie może zawierać błędy, więc niezbędne jest ich testowanie. Ale jak testować reakcję systemu na awarię? Oczywiście ... psując coś ;) Na tym (w skrócie) polega Chaos Engineering: wywołujemy kontrolowany problem i obserwujemy jak nasze mechanizmy obronne sobie z nim radzą.\n\nSesja będzie poświęcona Chaos Engineeringowi na AWS w praktyce - jakie narzędzia oferowane przez AWS mogą być pomocne (np. Fault Injection Simulator), jakie usługi można z nimi testować, jak automatyzować i integrować eksperymenty Chaos Engineeringowe z innymi usługami AWS (np. CloudWatch, EventBridge). Nadrzędnym celem jest pokazanie (w praktyce), że rozpoczęcie korzystania z Chaos Engineeringu wcale nie musi być tak trudne i czasochłonne jak się wydaje.",
+        "Poziom techniczności": "4",
+        "Opis występującego": "\"Sebastian Gębski, Amazon Web Services\"",
+        "Zdjęcie (from Prelegent)": "aws.jpeg (https://dl.airtable.com/.attachments/83d79270e4638b01128b9cf1c21fd056/7abbe37d/aws.jpeg)",
+        "Stanowisko (from Prelegent)": "Head of Technology / Principal Solutions Architect"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recgI4GWND5G0JcSp",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Firma": "Soonly (d. Vivus)",
+        "Prelegent": "Andrii Plotnikov",
+        "Proponowany tytuł prezentacji": "Ciągłe dostarczanie = Ciągłe usprawnienia. Nasza historia",
+        "Występujący": "Andrii Plotnikov",
+        "Kolejność": "27",
+        "Godzina": "13:00-13:40",
+        "Branża": "Finanse",
+        "Krótki opis prezentacji": "Andrii podzieli się doświadczeniami z zakresu dostarczania oprogramowania, które było agregowane przez Soonly (ex 4Finance) przez ostatnie 10 lat. Dowiesz się, jak wygląda lejek dostaw (delivery pipeline ) w firmie, z jakimi problemami borykano się do tej pory, jak zostały one naprawione i dokąd firma zmierza dalej.",
+        "Poziom techniczności": "3",
+        "Opis występującego": "\"Andrii Plotnikov, Soonly (d. Vivus)\"",
+        "Zdjęcie (from Prelegent)": "andrii_plotnikov_2020.JPG (https://dl.airtable.com/.attachments/6158a3c1ec4b15d5f912548246971026/bcbd4392/andrii_plotnikov_2020.JPG)",
+        "Stanowisko (from Prelegent)": "Software Architekt"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "receLzsSBj2NvzXJi",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "Microsoft",
+        "Prelegent": "Krzysztof Rogalski",
+        "Proponowany tytuł prezentacji": "Azure DevOps - od pomysłu do wdrożenia",
+        "Występujący": "Krzysztof Rogalski",
+        "Kolejność": "28",
+        "Godzina": "13:40-14:20",
+        "Branża": "Technologia",
+        "Krótki opis prezentacji": "Prezentacja będzie miała na celu przedstawienie możliwości technicznych Azure DevOps. W trakcie prezentacji przedstawię poszczególne moduły narzędzia oraz w jaki sposób wykorzystać je w celu udoskonalenia swojego procesu rozwoju oprogramowania i dostarczania wysokiej jakości produktów. ",
+        "Poziom techniczności": "4",
+        "Opis występującego": "\"Krzysztof Rogalski, Microsoft\"",
+        "Zdjęcie (from Prelegent)": "Krzysztof_Rogalski (002).jpg (https://dl.airtable.com/.attachments/c2957d53ccc8f71260ec529f3afb2c54/cc1c2476/Krzysztof_Rogalski002.jpg)",
+        "Stanowisko (from Prelegent)": "Senior Cloud Solution Architect"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recOYssiGNeWUP83X",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "Orsted",
+        "Prelegent": "Piotr Grędowski",
+        "Proponowany tytuł prezentacji": "Jak oszczędzać czas stosując szablony repozytoriów oraz Git hooki?",
+        "Występujący": "Piotr Grędowski",
+        "Kolejność": "29",
+        "Godzina": "14:20-15:00",
+        "Branża": "SSC / BPO, Utilites",
+        "Krótki opis prezentacji": "Zaprezentowane zostanie praktyczne zastosowanie szablonów repozytorium (#cookiecutter) do szybkiego prototypowania aplikacji i jej prezentacji dla klienta. A to wszystko przy automatycznym stosowaniu przyjętych w zespole coding guidelines, zasad lintowania i formatowania kodu (#githooks).",
+        "Poziom techniczności": "4",
+        "Opis występującego": "\"Piotr Grędowski, Ørsted\"",
+        "Zdjęcie (from Prelegent)": "IMG_5082_2.jpg (https://dl.airtable.com/.attachments/8a9e66aa032cc69bb1decdd50a8d1022/37c0e438/IMG_5082_2.jpg)",
+        "Stanowisko (from Prelegent)": "Senior Full Stack Developer"
+      },
+      "createdTime": 1659049531,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recEPYGG7IIBxqLxY",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "Żabka Polska S.A.",
+        "Prelegent": "Marek Biliński",
+        "Proponowany tytuł prezentacji": "Ludzie, brak silosów, automatyzacja = udany projekt. Case study z live demo",
+        "Występujący": "Marek Biliński",
+        "Kolejność": "30",
+        "Godzina": "15:00-15:40",
+        "Branża": "Handel",
+        "Krótki opis prezentacji": "High level design w diagramach, low level design w kodzie, wzorce architektury infrastruktury dla SAP, Ansible, Coud ready IaaC,a to wszystko okraszone live demo. \nPragmatycznie o jednym z największych projektów migracji infrastruktury po stronie klienta dla SAP w Polsce, który bez świetnych ludzi pracujących razem bez silosów jest niemożliwy do powtórzenia.",
+        "Poziom techniczności": "3",
+        "Opis występującego": "\"Marek Biliński, Żabka\"",
+        "Zdjęcie (from Prelegent)": "zabka.png (https://dl.airtable.com/.attachments/2ca32c6c2bbbec9b7638a33a5b3d5c88/73cfb5dc/zabka.png)",
+        "Stanowisko (from Prelegent)": "SAP Basis/Cloud Consultant"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recNSFI0OhL5sw4Jl",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "ING Hubs Poland",
+        "Prelegent": "Łukasz Ratman, Mariusz Adamczewski",
+        "Proponowany tytuł prezentacji": "Ogień i woda - czyli dwa spojrzenia na architekturę monitoringu dostępności przed i po transformacją DevOps",
+        "Występujący": "Łukasz Ratman, Mariusz Adamczewski",
+        "Kolejność": "34",
+        "Godzina": "15:40-16:20",
+        "Branża": "Banki i Ubezpieczenia, SSC / BPO",
+        "Krótki opis prezentacji": "Podczas prezentacji pokażemy jak zmieniły się narzędzia Continous Monitoring w dwóch światach. Na początku zaprezentujemy jak było przed transformacją firmy w modelu centralnym. Omówimy wady, zalety, wnioski z perspektywy centrum usług wspólnych ale również samych DevOps'ów.\nPonadto przedstawiamy jak mamy teraz - w modelu czysto rozproszonym i świecie DevOps'ów (Vertical). ",
+        "Poziom techniczności": "4",
+        "Opis występującego": "\"Łukasz Ratman, ING Hubs Poland\", \"Mariusz Adamczewski, ING Hubs Poland\"",
+        "Zdjęcie (from Prelegent)": "ING.jpg (https://dl.airtable.com/.attachments/89881b6d2d64167370c5c26487820822/9f6f6eae/ING.jpg), Adamczewski.jpg (https://dl.airtable.com/.attachments/ff5cbd9f66920e686fb0c17b187941b1/da6878cf/Adamczewski.jpg)",
+        "Stanowisko (from Prelegent)": "IT Tech Area Lead, Product Owner"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recmJafo8UCxsqD3X",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Firma": "IBM",
+        "Prelegent": "Marek Matuszyński, Patryk Ulatowski",
+        "Proponowany tytuł prezentacji": "Wrażenia z testów rozwiązania Turbonomic pod kątem optymalizacji zasobów i automatyzacji zadań",
+        "Występujący": "Marek Matuszyński, Patryk Ulatowski",
+        "Kolejność": "35",
+        "Godzina": "16:20-17:00",
+        "Branża": "Telekomunikacja",
+        "Krótki opis prezentacji": "Celem prezentacji jest przedstawienie wniosków z testów rozwiązania Turbonomic pod kątem optymalizacji zarządzania środowiskami wirtualnymi i chmury publicznej oraz automatyzacji zadań generowanych przez systemy współpracujące. ",
+        "Poziom techniczności": "3",
+        "Opis występującego": "\"Marek Matuszyński, IBM Polska\", \"Patryk Ulatowski, T-Systems Polska\"",
+        "Zdjęcie (from Prelegent)": "ibm.JPG (https://dl.airtable.com/.attachments/5beb4115b05dadd10b98ab4679dfce99/a3772d78/ibm.JPG), T-system.JPG (https://dl.airtable.com/.attachments/bb2070e2c0d9809268609abe9357dac3/d135233e/T-system.JPG)",
+        "Stanowisko (from Prelegent)": "Brand Sales Specialist , Solution Architect"
+      },
+      "createdTime": 1661544939,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recx5PJ2Tl01X3HDr",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Mail do prelegenta": "not@relevant.really",
+        "Firma": "Sopra Steria Polska",
+        "Prelegent": "Krzysztof Rogowski, Piotr Owcarz, Łukasz Mańka",
+        "Proponowany tytuł prezentacji": "End to End zautomatyzowane monitorowanie rozwiązań",
+        "Występujący": "Krzysztof Rogowski, Piotr Owcarz, Łukasz Mańka",
+        "Kolejność": "36",
+        "Godzina": "17:00-17:40",
+        "Branża": "Technologia, SSC / BPO",
+        "Krótki opis prezentacji": "Podczas wystąpienia przestawione będzie podejście Cloud OPS - automatyczne tworzenie / dodawanie maszyn do AWS.\nZaprezentowane zostanie autodiscover w Zabbix, który automatycznie wykrywa i pobiera maszyny z AWS. Następnie podpina przygotowane wzorce do superwizji. Zabbix uruchamia alarm i za pomocą API wysyła informacje do ITSM, gdzie wykorzystując API, tworzone jest zgłoszenie.\nDzięki odpowiednim wzorcom do zgłoszeń jest podpinana odpowiednia procedura.\nKorzystając z UiPath, wykonujemy poszczególne akcje z procedur typu sprawdzanie stron www, restart serwisów oraz aktualizację zgłoszenia w ITSM.",
+        "Poziom techniczności": "3",
+        "Opis występującego": "\"Krzysztof Rogowski, Sopra Steria\", \"Piotr Owcarz, Sopra Steria\", \"Łukasz Mańka, Sopra Steria\"",
+        "Zdjęcie (from Prelegent)": "Krzysiek.png (https://dl.airtable.com/.attachments/0bc2847d201782cdd9ae0ce1b1bd1606/d864746c/Krzysiek.png), IMG_6823.png (https://dl.airtable.com/.attachments/26e4ae7d93cd4d4097510d920607f9a9/8e8a2784/IMG_6823.png), Manka.jpg (https://dl.airtable.com/.attachments/5d18b1dead346490e76afd0d93a04060/6fe57072/Manka.jpg)",
+        "Stanowisko (from Prelegent)": "Service Delivery Manager, RPA Team Leader, Team Leader"
+      },
+      "createdTime": 1658273487,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recLtZjilkxTUPWn2",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Prelegent": "Mateusz Tur, \"prof. SGH, dr hab. Andrzej Sobczak\", Michał Szklarski, Jarek Szewczuk",
+        "Proponowany tytuł prezentacji": "Debata DevOps architektów i DevOps inżynierów nt. standaryzacji, efektywności i automatyzacji procesu wytwórczego",
+        "Występujący": "Mateusz Tur, \"prof. SGH, dr hab. Andrzej Sobczak\", Michał Szklarski, Jarek Szewczuk",
+        "Kolejność": "40",
+        "Godzina": "17:40-18:10",
+        "Branża": "Technologia, Banki i Ubezpieczenia, Handel",
+        "Krótki opis prezentacji": "Rozmowa DevOps Architektów i DevOps inżynierów nt. standaryzacji, efektywności i automatyzacji procesu wytwórczego. Jak podejść do tych zagadnień od strony narzędziowej, co boli jeżeli chodzi o infrastrukturę, jak rozmawiać z deweloperami? ",
+        "Poziom techniczności": "4",
+        "Opis występującego": "\"Mateusz Tur, Credit Agricole Bank Polska\", \"prof. SGH, dr hab. Andrzej Sobczak, \", \"Michał Szklarski, Jeronimo Martins Polska (Biedronka)\", \"Jarek Szewczuk, No Bullshit About\"",
+        "Zdjęcie (from Prelegent)": "IMG_20220509_142756797_HDR1.jpg (https://dl.airtable.com/.attachments/2cd39d0c5916ad96f37fd6bdde310af5/a6a6ae6d/IMG_20220509_142756797_HDR1.jpg), Sobczak.jpg (https://dl.airtable.com/.attachments/3b15645063372f5c7ab32a76625606a1/8fbbbf8d/Sobczak.jpg), 1575288254863.jpeg (https://dl.airtable.com/.attachments/421e54ff03d9a9eb06f1972df7905785/b36efaa8/1575288254863.jpeg), jarek nobs.png (https://dl.airtable.com/.attachments/d3eed48203b32c0f7bf50aef33ed778b/5417f8e4/jareknobs.png)",
+        "Stanowisko (from Prelegent)": "Kierownik Zespołów Programowania, Senior Manager - Architecture & DevOps, Podcaster / CEO"
+      },
+      "createdTime": 1657461359,
+      "table": null,
+      "linkedTables": null
+    },
+    {
+      "id": "recPhwVy4SiOe6otA",
+      "fields": {
+        "Ścieżka": "Technologiczno-produktowa",
+        "Firma": "Robonomika.pl",
+        "Prelegent": "\"prof. SGH, dr hab. Andrzej Sobczak\"",
+        "Proponowany tytuł prezentacji": "Zakończenie I dnia konferencji  AUTOMATYZACJA.io",
+        "Występujący": "\"prof. SGH, dr hab. Andrzej Sobczak\"",
+        "Kolejność": "41",
+        "Godzina": "18:10-18:15",
+        "Krótki opis prezentacji": "Podsumowanie i zamknięcie konferencji.",
+        "Poziom techniczności": "1",
+        "Opis występującego": "\"prof. SGH, dr hab. Andrzej Sobczak, \"",
+        "Zdjęcie (from Prelegent)": "Sobczak.jpg (https://dl.airtable.com/.attachments/3b15645063372f5c7ab32a76625606a1/8fbbbf8d/Sobczak.jpg)"
+      },
+      "createdTime": 1657462332,
+      "table": null,
+      "linkedTables": null
+    }
+  ]
+}
