@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/piotrgredowski/python-cookiecutter",
-  "commit": "1756db8917a211ae1ae9f23a8a8fedc2039ef5a4",
-  "checkout": "conf",
+  "commit": "15a58b75b0518795a6905eab3bcf9b6a4174fce2",
+  "checkout": null,
   "context": {
     "cookiecutter": {
       "author_name": "Piotr Grędowski",
