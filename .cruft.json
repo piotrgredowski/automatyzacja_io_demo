@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/piotrgredowski/python-cookiecutter",
-  "commit": "15a58b75b0518795a6905eab3bcf9b6a4174fce2",
+  "commit": "1c698bbd77033fa04481edc0c3687cd9437295a9",
   "checkout": null,
   "context": {
     "cookiecutter": {
