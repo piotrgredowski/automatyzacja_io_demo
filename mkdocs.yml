@@ -34,4 +34,3 @@ plugins:
       watch:
         - src
         - src.main
-        
